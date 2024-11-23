@@ -11,6 +11,9 @@ python3.12 -m venv project
 source project/bin/activate
 pip install -r requirements.txt
 ```
+## Dataset
+
+[Recruitment Scam Data](https://www.kaggle.com/datasets/amruthjithrajvr/recruitment-scam)
 
 ## Team
 
@@ -23,6 +26,4 @@ Feel free to contact and connect!
 | <img src="https://avatars.githubusercontent.com/u/99934779?v=4" width="100"></img>  | Mervyn | [![Mervyn](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/undeser)     |
 | <img src="https://avatars.githubusercontent.com/u/97732408?v=4" width="100"></img>  | Zenden | [![Zenden](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/zendenleong) |
 
-## Dataset
 
-[Recruitment Scam Data](https://www.kaggle.com/datasets/amruthjithrajvr/recruitment-scam)
