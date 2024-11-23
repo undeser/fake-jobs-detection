@@ -1,3 +1,18 @@
+## BT4012 Fraud Analytics ( Fraudulent Job Detection Project ) (Group 4)
+
+## ⏳ Steps to setup environment before running jupyter notebook
+```start
+
+# start virtual env
+# activate virtual env
+# install dependencies
+
+python3.12 -m venv project
+source project/bin/activate
+pip install -r requirements.txt
+
+```
+
 ## Team
 
 Feel free to contact and connect!
