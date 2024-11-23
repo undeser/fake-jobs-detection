@@ -1,5 +1,7 @@
 ## BT4012 Fraud Analytics ( Fraudulent Job Detection Project ) (Group 4)
 
+In this project, we aim to utilize various machine learning techniques to detect fraudulent job postings and improve the safety of online job markets, especially with the rise of job scams recently.
+
 ## ⏳ Steps to setup environment before running jupyter notebook
 This project requires **Python 3.12**
 ```start
