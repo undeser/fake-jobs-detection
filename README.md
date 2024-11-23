@@ -2,7 +2,7 @@
 
 In this project, we aim to utilize various machine learning techniques to detect fraudulent job postings and improve the safety of online job markets, especially with the rise of job scams recently.
 
-## ⏳ Steps to setup environment before running jupyter notebook
+## ⏳ Steps to setup environment before running notebook
 This project requires **Python 3.12**
 ```start
 # start virtual env
